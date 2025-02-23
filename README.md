@@ -75,6 +75,21 @@ Gerencia operações de saque:
 - Fornece feedback imediato
 
 ### Histórico de Transações
+```
+======================================================================
+                      HISTÓRICO DE MOVIMENTAÇÕES
+Cliente: Jose da Silva - Conta: 71089
+======================================================================
+Data/Hora           | Tipo     |        Valor | Saldo Anterior |  Saldo Atual
+----------------------------------------------------------------------
+22/02/2025 23:19:23 | Depósito |      4000.00 |           0.00 |      4000.00
+22/02/2025 23:20:32 | Saque    |       115.75 |        4000.00 |      3884.25
+23/02/2025 00:21:07 | Depósito |      1000.00 |        3884.25 |      4884.25
+23/02/2025 00:21:22 | Depósito |      1000.00 |        4884.25 |      5884.25
+======================================================================
+
+Pressione Enter para voltar ao menu principal...
+```
 
 #### `registrar_movimentacao()`
 Registra todas as transações financeiras com:
@@ -190,28 +205,6 @@ O código segue várias boas práticas do Python:
 - Estrutura limpa de código
 - Nomes descritivos de variáveis
 - Suporte a codificação UTF-8
-
-## Limitações
-
-- Sem proteção por senha
-- Dados armazenados em arquivos JSON em texto puro
-- Sem criptografia para dados sensíveis
-- Acesso de usuário único por vez
-- Sem tratamento de transações concorrentes
-
-## Melhorias Futuras
-
-Possíveis melhorias incluem:
-- Autenticação por senha
-- Criptografia de dados
-- Suporte a múltiplos usuários
-- Integração com banco de dados
-- Implementação de interface gráfica
-- Categorias de transação
-- Tipos de conta (poupança, corrente)
-- Cálculo de juros
-- Transações agendadas
-- Funcionalidade de exportação de extratos
 
 ## Como Contribuir
 
