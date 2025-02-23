@@ -25,7 +25,7 @@ Uma implementação robusta e simples de um sistema bancário em Python que forn
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seuusuario/banco-xpto.git
+git clone https://github.com/brunovdl/sistemabancarioXPTO
 cd banco-xpto
 ```
 
