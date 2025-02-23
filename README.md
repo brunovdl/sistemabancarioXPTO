@@ -118,11 +118,27 @@ Gerencia atualizações de saldo:
 
 ### Menu de Operações
 ```
-MENU DE OPERAÇÕES:
-[1] Depósito
-[2] Saque
-[3] Histórico de Movimentações
-[0] Sair
+==================================================
+                    BANCO XPTO
+==================================================
+Data/Hora: 23/02/2025 00:27:14
+Cliente: Jose da Silva
+Conta: 71089
+Telefone: 11999887766
+--------------------------------------------------
+Saldo Atual: R$ 5884.25
+Última Operação: Nenhuma
+--------------------------------------------------
+
+    MENU DE OPERAÇÕES:
+    [1] Depósito
+    [2] Saque
+    [3] Histórico de Movimentações
+    [0] Sair
+
+==================================================
+
+Escolha uma operação:
 ```
 
 ## Recursos de Segurança
