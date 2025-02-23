@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "Bruno Martins",
+        "telefone": "16991847619",
+        "numero_conta": "77861",
+        "saldo": 4078.0
+    },
+    {
+        "nome": "Jose da Silva",
+        "telefone": "11999887766",
+        "numero_conta": "71089",
+        "saldo": 5884.25
+    },
+    {
+        "nome": "Carlos Alberto",
+        "telefone": "988775544",
+        "numero_conta": "79401",
+        "saldo": 6050.0
+    },
+    {
+        "nome": "João Amaral",
+        "telefone": "11966775544",
+        "numero_conta": "82826",
+        "saldo": 1500.0
+    }
+]
