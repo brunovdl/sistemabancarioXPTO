@@ -206,10 +206,6 @@ O código segue várias boas práticas do Python:
 - Nomes descritivos de variáveis
 - Suporte a codificação UTF-8
 
-## Como Contribuir
-
-Contribuições são bem-vindas! Sinta-se à vontade para enviar um Pull Request.
-
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
